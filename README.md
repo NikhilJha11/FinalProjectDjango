@@ -1,1 +1,1 @@
-My Online Course Project
+Django Project final
